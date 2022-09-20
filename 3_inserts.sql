@@ -1,0 +1,6 @@
+
+/*
+ * Testdaten einfüllen
+ */
+-- TABLE  abteilung
+
